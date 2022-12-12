@@ -1,0 +1,15 @@
+Justas Kiskis averages: 
+Lesson Python average - 8.00
+Lesson Praktika average - 8.50
+Overall avg: 8.25Specilizacija: AI
+
+Rapolas Jamontas averages: 
+Lesson Python average - 7.00
+Lesson Praktika average - 8.00
+Overall avg: 7.5Specilizacija: Duomenu baze
+
+Tomas Kevalas averages: 
+Lesson Python average - 10.00
+Lesson Praktika average - 8.50
+Overall avg: 9.25Specilizacija: AI
+

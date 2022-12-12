@@ -1,0 +1,4 @@
+Python	6
+Praktika	12
+Matematika	6
+VA	3
